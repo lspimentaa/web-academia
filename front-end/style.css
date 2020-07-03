@@ -236,8 +236,43 @@ a.active, a:hover
 	text-shadow: 0 0 5px black;
 }
 
+.categoriaTitleCenterText
+{
+	margin-top: 20px;
+	width: 100%;
+	text-align: center;
+	text-shadow: 0 0 5px black;
+}
 
+.exercicio
+{
+	background-color: white;
+	width: 50%;
+	text-align: center;
+	padding: 10px;
+	background-color: rgba(0, 0, 0, 0.8);
+	box-sizing: border-box;
+	box-shadow: 0 15px 25px rgba(0, 0, 0, .5);
+	border-radius: 10px;
+}
 
+.exercicio .titulo
+{
+	color: white;
+	font-size: 25px;
+	line-height: 25px;
+	padding: 0 50px;
+	font-weight: bold;
+}
+
+.exercicio .descricao
+{
+	color: white;
+	font-size: 15px;
+	line-height: 15px;
+	padding: 0 50px;
+	font-weight: bold;
+}
 
 
 
